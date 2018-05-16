@@ -1,2 +1,1 @@
-# kupicz_new
-kupicz_new
+kupicz new readme
