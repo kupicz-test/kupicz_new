@@ -1,2 +1,0 @@
-kupicz new readme
-xascxsasac
